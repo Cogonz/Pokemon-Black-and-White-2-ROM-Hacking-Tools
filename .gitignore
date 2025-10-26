@@ -1,0 +1,6 @@
+# Ignore large ROM files
+*.nds
+*.srl
+*.bin
+*.narc
+*.zip
